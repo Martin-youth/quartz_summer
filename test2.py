@@ -1,1 +1,1 @@
-print("gachon")
+print("GA")
