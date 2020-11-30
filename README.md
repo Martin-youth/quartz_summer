@@ -12,8 +12,8 @@
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-%23BCF5A9.svg?style=flat-square)](https://github.com/JONGSKY/Thunder-search-system/graphs/contributors)
 ![LICENSE](https://img.shields.io/badge/license-TeamLab-%23013ADF.svg?style=flat-square)
 
-<a href="https://github.com/JONGSKY/Thunder-search-system/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
 
+<a href="https://github.com/JONGSKY/Thunder-search-system/graphs/contributors"><img src = "https://user-images.githubusercontent.com/68604786/100565042-f13b9900-3305-11eb-9a78-66643d86b93e.jpeg" width = "300px" height = "100px"></a>
 </div>
 
 > contributer :pray:
