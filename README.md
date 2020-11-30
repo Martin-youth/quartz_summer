@@ -35,17 +35,9 @@
 
 ## :sparkles: 언어
 
-## :pray: 프레임워크
-
-## :star: 모듈
 
 </br>
-
-</br>
-
 ---
-
-## :memo: 서버
 
 
 ## :sparkles: 기능
@@ -54,5 +46,5 @@
 
 #### :large_orange_diamond: trademark-search
 
-## :memo: 버전
+## :memo: 환경 및 버전
 
