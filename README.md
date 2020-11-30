@@ -8,10 +8,9 @@
 
 <div align=center>
 
-[![author](https://img.shields.io/badge/author-jbee-ff69b4.svg?style=flat-square)](http://friendly-belief.surge.sh/)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-40-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
-[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner.svg)](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner)
+[![author](https://img.shields.io/badge/author-Thunder-%23F3F781.svg?style=flat-square)]
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-%23BCF5A9.svg?style=flat-square)](https://github.com/JONGSKY/Thunder-search-system/graphs/contributors)
+[![LICENSE](https://img.shields.io/badge/license-TeamLab-%23013ADF.svg?style=flat-square)]
 
 <a href="https://github.com/JONGSKY/Thunder-search-system/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
 
