@@ -6,6 +6,7 @@
 
 # Thunder-search-system
 
+
 <div align=center>
 
 ![author](https://img.shields.io/badge/author-Thunder-%23F3F781.svg?style=flat-square)
@@ -16,7 +17,7 @@
 <a href="https://github.com/JONGSKY/Thunder-search-system/graphs/contributors"><img src = "https://user-images.githubusercontent.com/68604786/100565042-f13b9900-3305-11eb-9a78-66643d86b93e.jpeg" width = "300px" height = "100px"></a>
 </div>
 
-> contributer :pray:
+
 
 </br>
 
