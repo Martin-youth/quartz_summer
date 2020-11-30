@@ -6,15 +6,9 @@
 </div>
 
 # Thunder-search-system
+:memo: 해당 프로젝트는 Elastic search와 cosine 유사도를 기반으로 한 특허 검색 프로그램 개발 프로젝트 입니다. 
 </br>
 
-## :memo: 개요
-해당 프로젝트는 Elastic search와 cosine 유사도를 기반으로 한 특허 검색 프로그램 개발 프로젝트 입니다. 
-
-
-</br>
-
-</br>
 
 ## :memo: 기술
 
