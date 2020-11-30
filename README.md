@@ -8,9 +8,9 @@
 
 <div align=center>
 
-[![author](https://img.shields.io/badge/author-Thunder-%23F3F781.svg?style=flat-square)]
+![author](https://img.shields.io/badge/author-Thunder-%23F3F781.svg?style=flat-square)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-%23BCF5A9.svg?style=flat-square)](https://github.com/JONGSKY/Thunder-search-system/graphs/contributors)
-[![LICENSE](https://img.shields.io/badge/license-TeamLab-%23013ADF.svg?style=flat-square)]
+![LICENSE](https://img.shields.io/badge/license-TeamLab-%23013ADF.svg?style=flat-square)
 
 <a href="https://github.com/JONGSKY/Thunder-search-system/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
 
