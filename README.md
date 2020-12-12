@@ -104,6 +104,7 @@ Trademark에서는 로고 이미지 업로드를 하여 검색 결과로 다음�
 
 ## 🧑‍💻 개발자
 <div>
+ 
 ![author](https://img.shields.io/badge/author-Thunder-%23F3F781.svg?style=flat-square)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-%23BCF5A9.svg?style=flat-square)](https://github.com/JONGSKY/Thunder-search-system/graphs/contributors)
 ![LICENSE](https://img.shields.io/badge/license-TeamLab-%23013ADF.svg?style=flat-square)
