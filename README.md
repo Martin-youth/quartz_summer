@@ -6,9 +6,10 @@
 </div>
 
 # Thunder-search-system
-:memo: 해당 프로젝트는 Elastic search와 cosine 유사도를 기반으로 한 특허 검색 프로그램 개발 프로젝트 입니다. 
+ <strong>해당 프로젝트는 Elastic search와 cosine 유사도를 기반으로 한 특허 검색 프로그램 개발 프로젝트 입니다. </strong>
 </br>
-
+</br>
+</br>
 
 ## :memo: 기술
 
@@ -60,14 +61,19 @@ Trademark에서는 로고 이미지 업로드를 하여 검색 결과로 다음�
 
 → 검색 결과를 CSV파일로 저장 가능하다.
 
+</br>
+
 ## :sparkles: 실행
 - docker db build
-    - docker-compose up —build db
-    - docker-compose up —build elasticsearch kibana logstash
-    - docker-compose up —build web adminer
+    - `docker-compose up —build db` : 저장된 sql파일을 이용해 mysql db를 구축한다.
+    - `docker-compose up —build elasticsearch kibana logstash` : 구축한 mysql데이터를 logstash를 이용해 elasticsearch에 저장한다.
+- check docker db
+    - `docekr-compose up -build adminer` : 저장된 mysql db를 web상에서 확인한다.
 - docker web build 
-    - docker-compose up --build web
-    - docker-compose down -v
+    - `docker-compose up --build web` : django를 통해 web을 구축한다.
+
+</br>
+
 
 ## :memo: 환경 및 버전
 ### Docker
@@ -75,22 +81,30 @@ Trademark에서는 로고 이미지 업로드를 하여 검색 결과로 다음�
 - 모든 시스템은 Docker 컨테이너로 실행된다.
 
 ### Port
-
-- db : 3306
-- django : 8000
-- elasticsearch : 9200
-- kibana : 5601
-- adminer : 8080
+|이름|포트|
+|---|---|
+|db|3306|
+|django|8000|
+|elasticsearch|92000|
+|kibana|5601|
+|adminer|8080|
 
 ### 버전
+|사용기술|버전|
+|-----|---|
+|Django|3.1.1|
+|ELK|7.6.1|
 
-- Django : 3.1.1
-- ELK : 7.6.1
+</br>
 
+## :book: 관련 문서 링크
+- [Thunder 개발 Wiki Page](https://www.notion.so/Thunder-Search-System-9a506f6218484044a12101888d212238)
 
-## 개발자
+</br>
+
+## 🧑‍💻 개발자
 <div>
-
+ 
 ![author](https://img.shields.io/badge/author-Thunder-%23F3F781.svg?style=flat-square)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-3-%23BCF5A9.svg?style=flat-square)](https://github.com/JONGSKY/Thunder-search-system/graphs/contributors)
 ![LICENSE](https://img.shields.io/badge/license-TeamLab-%23013ADF.svg?style=flat-square)
